@@ -1,6 +1,7 @@
 
 # Virtual environment
 venv/
+.env
 
 # Python cache
 __pycache__/
@@ -9,12 +10,14 @@ __pycache__/
 # IDE settings
 .vscode/
 
-# Testing cache
+# Testing
 .pytest_cache/
-
-# Environment variables
-.env
 
 # Generated output data
 data/processed/*
 data/rejected/*
+
+# Build files
+build/
+dist/
+*.egg-info/
