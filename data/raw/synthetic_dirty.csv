@@ -1,0 +1,202 @@
+instruction,context,response,category,record_id
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_001
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_002
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_003
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_004
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_005
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_006
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_007
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_008
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_009
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_010
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_011
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_012
+,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_013
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_014
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_015
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_016
+   What is precision?   ,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_017
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_018
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_019
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_020
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_021
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_022
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_023
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_024
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_025
+What is overfitting?,,,synthetic_qa,rec_026
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_027
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_028
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_029
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_030
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_031
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_032
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_033
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_034
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_035
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_036
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_037
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_038
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_039
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_040
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_041
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_042
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_043
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_044
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_045
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_046
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_047
+,,Regression predicts a continuous numerical value.,synthetic_qa,rec_048
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_049
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_050
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_051
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_052
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_053
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_054
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_055
+What is cross-validation?,,"
+  Cross-validation evaluates a model across multiple train-validation splits.   ",synthetic_qa,rec_056
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_057
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_058
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_059
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_060
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_061
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_062
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_063
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_064
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_065
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_066
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_067
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_068
+What is a train-test split?,,,synthetic_qa,rec_069
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_070
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_071
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_072
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_073
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_074
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_075
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_076
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_077
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_078
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_079
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_080
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_081
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_082
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_083
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_084
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_085
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_086
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_087
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_088
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_089
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_090
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_091
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_092
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_093
+,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_094
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_095
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_096
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_097
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_098
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_099
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_100
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_101
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_102
+What   is    Pandas? ,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_103
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_104
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_105
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_106
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_107
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_108
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_109
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_110
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_111
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_112
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_113
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_114
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_115
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_116
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_117
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_118
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_119
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_120
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_121
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_122
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_123
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_124
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_125
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_126
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_127
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_128
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_129
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_130
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_131
+What is JSON?,,,synthetic_qa,rec_132
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_133
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_134
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_135
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_136
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_137
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_138
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_139
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_140
+What is the Python programming language?,,Python is a high-level general-purpose programming language.,synthetic_qa,rec_141
+Explain what Python is,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_142
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_143
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_144
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_145
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_146
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_147
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_148
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_149
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_150
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_151
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_152
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_153
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_154
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_155
+What is cross-validation?,,This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. This is an intentionally long synthetic response. ,synthetic_qa,rec_156
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_157
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_158
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_159
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_160
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_161
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_162
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_163
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_164
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_165
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_166
+What is a classification model?,12345,A classification model predicts a category or class for an input.,synthetic_qa,rec_167
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_168
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_169
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_170
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_171
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_172
+What is JSONL?,,JSONL stores one independent JSON object on each line.,['synthetic_qa'],rec_173
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_174
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_175
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_176
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_177
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_178
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_179
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_180
+What is Python?,,"Python is a high-level, general-purpose programming language.",synthetic_qa,rec_001
+What is SQL?,,SQL is a language used to query and manage relational databases.,synthetic_qa,rec_002
+What is machine learning?,,Machine learning is a field where systems learn patterns from data.,synthetic_qa,rec_003
+What is Pandas?,,Pandas is a Python library for data manipulation and analysis.,synthetic_qa,rec_004
+What is NumPy?,,NumPy is a Python library for numerical computing with multidimensional arrays.,synthetic_qa,rec_005
+What is overfitting?,,Overfitting occurs when a model learns training data too closely and generalizes poorly.,synthetic_qa,rec_006
+What is a classification model?,,A classification model predicts a category or class for an input.,synthetic_qa,rec_007
+What is regression?,,Regression predicts a continuous numerical value.,synthetic_qa,rec_008
+What is a train-test split?,,A train-test split separates data for model training and evaluation.,synthetic_qa,rec_189
+What is data preprocessing?,,Data preprocessing prepares raw data for analysis or machine learning.,synthetic_qa,rec_190
+What is an API?,,An API defines how software systems communicate with one another.,synthetic_qa,rec_191
+What is JSON?,,JSON is a text format for representing structured data using key-value pairs.,synthetic_qa,rec_192
+What is JSONL?,,JSONL stores one independent JSON object on each line.,synthetic_qa,rec_193
+What is a Python function?,,A Python function is a reusable block of code that performs a task.,synthetic_qa,rec_194
+What is a database index?,,A database index helps retrieve records more efficiently.,synthetic_qa,rec_195
+What is cross-validation?,,Cross-validation evaluates a model across multiple train-validation splits.,synthetic_qa,rec_196
+What is precision?,,Precision measures the proportion of predicted positive cases that are truly positive.,synthetic_qa,rec_197
+What is recall?,,Recall measures the proportion of actual positive cases correctly identified.,synthetic_qa,rec_198
+What is gradient descent?,,Gradient descent updates model parameters to reduce a loss function.,synthetic_qa,rec_199
+What is an embedding?,,An embedding represents data such as text as a numerical vector.,synthetic_qa,rec_200
