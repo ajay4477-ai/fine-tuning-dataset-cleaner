@@ -21,3 +21,6 @@ data/rejected/*
 build/
 dist/
 *.egg-info/
+
+# Generated reports
+reports/

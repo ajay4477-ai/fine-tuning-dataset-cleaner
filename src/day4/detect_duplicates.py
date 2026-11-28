@@ -14,7 +14,7 @@ def detect_exact_duplicates(df):
 
     Records containing non-scalar values are skipped because
     they cannot safely be compared using Pandas duplicated().
-
+    
     Returns:
         unique_records: Records with the first occurrence retained.
         duplicate_records: Subsequent duplicate occurrences.
